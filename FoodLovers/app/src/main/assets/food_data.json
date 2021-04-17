@@ -1,0 +1,58 @@
+[
+  {
+    "image": "f1",
+    "Food": "Deep Fried Mandu (Yaki Mandu)",
+    "Store": "Baan-Oppa",
+    "price": "1 piece / 3,000 Won",
+    "star": 5,
+    "Foodinfo": "Stuffed with pork, glass noodles and an array of salty seasonings, these deep fried mandu’s are guaranteed to be mouthwatering. They are most delicious when serving piping hot and dipped in the soy vinegar sauce provided."
+  },
+  {
+    "image": "f2",
+    "Food": "Steamed Mandu Dumplings (Jjinmandu)",
+    "Store": "Baan-Oppa",
+    "price": "1 piece / 3,000 Won",
+    "star": 4,
+    "Foodinfo": "Similar to jiaozi in China or gyoza in Japan, Korean mandu dumplings are noodle like wrappers stuffed with a variety of different ingredients. Pork, onions, cabbage, carrots, and mung bean noodles are all common ingredients within these pillows of delicious goodness.\n\nThe steamed versions are known as Jjinmandu."
+  },
+  {
+    "image": "f3",
+    "Food": "Fried Sweet Potato Noodles (Japchae)",
+    "Store": "Baan-Oppa",
+    "price": "1 piece / 4,000 Won",
+    "star": 5,
+    "Foodinfo": "I’ve always been a lover of stir fried translucent noodles. The Korean version is wonderful – chewy stir fried sweet potato noodles mixed with slivers of carrots, cucumber, onions, mushrooms and sometimes pieces of meat.\n\nFried in sesame oil and garnished with toasted sesame seeds, japchae has a mouthwatering fragrance that a taste you’ll love.\n\nOften served as a side dish."
+  },
+  {
+    "image": "f4",
+    "Food": "Hotpot Mixed Rice (Dolsot Bibimbap)",
+    "Store": "Baan-Oppa",
+    "price": "1 piece / 5,000 Won",
+    "star": 5,
+    "Foodinfo": "Famous and widely available, bibimbap is like fried rice, but instead of being fried it’s just all mixed up like a salad. It’s the khao yam or khao kluk kaphi or Korean cuisine.\n\nThe dish consists of rice on the bottom, a few different kinds of sauteed vegetables, an egg, and toasted seaweed flakes and sesame seeds on top. If it’s not salty enough, you can normally add more gochujang chili paste to make it tastier.\n\nDolsot bibimbap is served in a scorching earthenware pot so every bite is extremely hot in temperature. Be sure to start mixing it immediately so the rice doesn’t get too crunchy burnt on the bottom!"
+  },
+  {
+    "image": "f5",
+    "Food": "Kimchi Fried Rice (Kimchi Bokkeumbap)",
+    "Store": "Baan-Oppa",
+    "price": "1 piece / 5,000 Won",
+    "star": 3,
+    "Foodinfo": "Take South Koreas most iconic vegetable garnish (kimchi), stir fry it with a few chunks of hot dog or luncheon meat and rice, cover it with a fried egg and sprinkle it with toasted seaweed and sesame seeds and you’ve got a dish that no one could dislike!\n\nIt’s the type of South Korean food that tastes good any day of the week or for whatever mood you’re in. Don’t forget to eat kimchi fried rice with a side of kimchi!"
+  },
+  {
+    "image": "f6",
+    "Food": "Korean Blood Sausage (Soondae)",
+    "Store": "Baan-Oppa",
+    "price": "1 piece / 6,000 Won",
+    "star": 2,
+    "Foodinfo": "Blood pudding lovers… it’s time to rejoice – Korean’s take pride in their soondae (or sundae) and I’d have to say it’s nothing short of fantastic.\n\nThis version I ate at the Gwanjang Market in Seoul was a masterful combo of sticky rice and pig’s blood stuffed into intestines and steamed to perfection.\n\nThis Korean street food favorite is not for everyone, but if you’re a fan, you’re going to love it!"
+  },
+  {
+    "image": "f7",
+    "Food": "Korean Ox Bone Soup (Seolleongtang)",
+    "Store": "Baan-Oppa",
+    "price": "1 piece / 6,000 Won",
+    "star": 3,
+    "Foodinfo": "Ox bones simmered on low heat for hours and hours is the highlight of Korean seolleongtang. The dish is served plain, a few light noodles, slices of beef and green onions.\n\nThe broth is delivered to you unsalted and unseasoned so it’s up to you to add salt, pepper, chili paste and extra green onions to your own taste."
+  }
+]
